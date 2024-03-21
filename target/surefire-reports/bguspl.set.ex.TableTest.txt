@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: bguspl.set.ex.TableTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.019 s -- in bguspl.set.ex.TableTest
